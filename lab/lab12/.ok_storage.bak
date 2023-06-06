@@ -1,0 +1,6 @@
+'if-macro-correct', (0, 66)
+'or-macro-correct', (512, 66)
+'repeat-macro-correct', (1024, 66)
+'list-comp-func-correct', (1536, 66)
+'list-comp-correct', (2048, 66)
+'quasiquote-correct', (2560, 66)
